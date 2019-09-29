@@ -11,6 +11,7 @@ Il n'est pas nécessaire de savoir coder pour participer à cet atelier.
 
 Vous aurez besoin de votre ordinateur, d'une connexion à internet et d'un compte [Github](http://github.com).
 ## Le versionning et les outils de collaboration
+### Le versionning
 
 ### Qu'est-ce que Github?
 Github est un site web permettant d'héberger et de gérer des projets.
