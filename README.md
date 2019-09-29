@@ -3,7 +3,7 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: https://twitter.com/leshackeuses?lang=fr
 
-Cet atelier presente les outils de collaboration et de versioning Git et Github.
+Cet atelier présente les outils de collaboration et de versioning Git et Github.
 
 Ouvert à toutes personnes souhaitant en savoir plus sur Github et ses utilisations.
 Il n'est pas nécessaire de savoir coder pour participer à cet atelier.
@@ -13,11 +13,24 @@ Vous aurez besoin de votre ordinateur, d'une connexion à internet et d'un compt
 
 ### Qu'est-ce que Github?
 Github est un site web permettant d'héberger et de gérer des projets.
+
 ### Qu'est-ce que Git?
 
+## Github
+### Créer son premier repository
+
+## Git
+#### Installation
+
+#### Ligne de commande Git
+
+#### Cloner un repository
+
+#### Les branches
 
 
-### Reférences et liens utiles
+
+## Reférences et liens utiles
 commandes principales console + git: https://github.com/women-on-rails/week-1
 Commencer avec Git: https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/
 https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
