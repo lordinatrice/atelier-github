@@ -6,6 +6,7 @@
 Cet atelier présente les outils de collaboration et de versioning Git et Github.
 
 Ouvert à toutes personnes souhaitant en savoir plus sur Github et ses utilisations.
+
 Il n'est pas nécessaire de savoir coder pour participer à cet atelier.
 
 Vous aurez besoin de votre ordinateur, d'une connexion à internet et d'un compte [Github](http://github.com).
