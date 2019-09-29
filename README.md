@@ -1,4 +1,14 @@
-# atelier-github
+# Atelier-github pour [@LesHackeuses](https://leshackeuses.fr/)  [![alt text][1.2]][1]
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: https://twitter.com/leshackeuses?lang=fr
+
+Cet atelier presente les outils de collaboration et de versioning Git et Github.
+
+Ouvert à toutes personnes souhaitant en savoir plus sur Github et ses utilisations.
+Il n'est pas nécessaire de savoir coder pour participer à cet atelier.
+
+Vous aurez besoin de votre ordinateur, d'une connexion à internet et d'un compte [Github](http://github.com).
 ## Le versionning et les outils de collaboration
 
 ### Qu'est-ce que Github?
@@ -28,3 +38,4 @@ Readme syntax:
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 Git github guide:https://rogerdudler.github.io/git-guide/index.fr.html
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
