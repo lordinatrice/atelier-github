@@ -11,12 +11,15 @@ Il n'est pas nécessaire de savoir coder pour participer à cet atelier.
 
 Vous aurez besoin de votre ordinateur, d'une connexion à internet et d'un compte [Github](http://github.com).
 ## Le versionning et les outils de collaboration
-### Le versionning
+### Qu'est-ce que versionning?
+La gestion de versions. 
 
 ### Qu'est-ce que Github?
 Github est un site web permettant d'héberger et de gérer des projets.
 
 ### Qu'est-ce que Git?
+Un gestionnaire de version qui permet d'enregister l'évolution d'un fichier ou d'un ensemble de fichiers.
+Il permet de conserver toutes les versions d'un projet.
 
 ## Github
 ### Créer son premier repository
@@ -48,7 +51,9 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 Installer Git:
 https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/
 
+Versioning: https://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-%C3%80-propos-de-la-gestion-de-version
 
+http://www.skilly.com/mag/le-versionning-au-service-de-developpeurs/
 Readme syntax:
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
