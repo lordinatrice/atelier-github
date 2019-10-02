@@ -122,6 +122,9 @@ git merge
 
 ## Reférences et liens utiles
 commandes principales console + git: https://github.com/women-on-rails/week-1
+
+Guide Git: https://rogerdudler.github.io/git-guide/
+
 Commencer avec Git: https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/
 https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
 https://blog.lesieur.name/comprendre-et-utiliser-git-avec-vos-projets/
