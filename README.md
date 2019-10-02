@@ -20,9 +20,12 @@ Il permet d'établir un **historique** des modifications et de **récupérer des
 
 ### Qu'est-ce que Github?
 ![](/images/github_octocat_logo.png)
+
 Github est une plateforme web permettant d'héberger et de gérer des projets.
 
 ### Qu'est-ce que Git?
+![](/images/git_logo.png)
+
 Un gestionnaire de version qui permet d'enregister l'évolution d'un fichier ou d'un ensemble de fichiers.
 Il permet de conserver toutes les versions d'un projet.
 
