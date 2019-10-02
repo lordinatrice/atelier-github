@@ -131,9 +131,8 @@ Comprendre Git: https://blog.lesieur.name/comprendre-et-utiliser-git-avec-vos-pr
 Créer un repository Github: https://guides.github.com/activities/hello-world/#intro
 
 Installer Git:
-https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/
-
-https://git-scm.com/downloads
+- https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/
+- https://git-scm.com/downloads
 
 Versioning: https://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-%C3%80-propos-de-la-gestion-de-version
 
