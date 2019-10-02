@@ -57,12 +57,12 @@ https://www.linode.com/docs/development/version-control/how-to-install-git-on-li
 git clone git@github.com:camilleregnault/atelier-github.git
 ```
 ### Ligne de commande Git
-**Commandes** 
+Commandes
 ```
 # visualiser les commandes git
 git config
 ```
-**Commit**
+Commit
 ```
 # d'abord verifier le status actuel
 git status
@@ -77,14 +77,14 @@ git status
 # commenter/ decrire le changement
 git commit --message "A meaningful message about this change"
 ```
-**Log**
+Log
 ```
 # visualiser l'historique des commits
 git log
 
 # press q to exit git log
 ```
-**Push**
+Push
 ```
 # Envoyer le commit sur github
 git push origin <branch_name>
