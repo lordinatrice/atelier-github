@@ -96,6 +96,7 @@ git push origin master
 
 ### Les branches
 Ce sont des outils permettant le travail collaboratif.
+[Github flow](https://guides.github.com/introduction/flow/)
 ![](/images/gitbranch.png)
 
 ```
@@ -125,30 +126,21 @@ commandes principales console + git: https://github.com/women-on-rails/week-1
 
 Guide Git: https://rogerdudler.github.io/git-guide/
 
-Commencer avec Git: https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/
-https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
-https://blog.lesieur.name/comprendre-et-utiliser-git-avec-vos-projets/
+Comprendre Git: https://blog.lesieur.name/comprendre-et-utiliser-git-avec-vos-projets/
 
-Hello World Github: https://guides.github.com/activities/hello-world/#intro
-Github flow: https://guides.github.com/introduction/flow/
-
-https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
-
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+Créer un repository Github: https://guides.github.com/activities/hello-world/#intro
 
 Installer Git:
 https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/
+
 https://git-scm.com/downloads
 
 Versioning: https://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-%C3%80-propos-de-la-gestion-de-version
 
-http://www.skilly.com/mag/le-versionning-au-service-de-developpeurs/
-Readme syntax:
+Formater Readme:
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 Git github guide:https://rogerdudler.github.io/git-guide/index.fr.html
-
-Formater readme: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 Lignes de commande git: https://gist.github.com/aquelito/8596717#file-git_base-md
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
