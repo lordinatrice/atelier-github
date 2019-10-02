@@ -92,6 +92,22 @@ git push origin <branch_name>
 # envoyer sur la branche principale
 git push origin master
 ```
+
+
+### Les branches
+Ce sont des outils permettant le travail collaboratif.
+```
+# Créer un branche
+git checkout -b <new_branch_name>
+
+# Aller sur une branche
+git checkout <branch_name>
+
+# Aller sur master
+git checkout master
+
+```
+
 ###### Pull
 ```
 # Récuperer et intégrer un branche ou un autre repo
@@ -104,10 +120,6 @@ git pull origin master
 git merge
 
 ```
-
-### Les branches
-Ce sont des outils permettant le travail collaboratif.
-
 
 ## Reférences et liens utiles
 commandes principales console + git: https://github.com/women-on-rails/week-1
