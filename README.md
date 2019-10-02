@@ -116,5 +116,7 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 Git github guide:https://rogerdudler.github.io/git-guide/index.fr.html
 
+Formater readme: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
 Lignes de commande git: https://gist.github.com/aquelito/8596717#file-git_base-md
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
