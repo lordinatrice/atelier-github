@@ -96,6 +96,8 @@ git push origin master
 
 ### Les branches
 Ce sont des outils permettant le travail collaboratif.
+![](/images/gitbranch.png)
+
 ```
 # Créer un branche
 git checkout -b <new_branch_name>
