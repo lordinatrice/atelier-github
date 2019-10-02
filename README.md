@@ -12,12 +12,14 @@ Il n'est pas nécessaire de savoir coder pour participer à cet atelier.
 Vous aurez besoin de votre ordinateur, d'une connexion à internet et d'un compte [Github](http://github.com).
 ## Le versionning et les outils de collaboration
 ### Qu'est-ce que versioning?
-![](/images/naming_convention_versions.png)
+![](/images/naming_convention_versioning.png)
+
 La gestion de versions, permet simplement de pouvoir créer plusieurs versions d'un projet. Ces versions sont alors accessibles et modifiables.
 Le "versioning" permet un travail d'équipe simultané, c'est un outil primordial pour le **travail collaboratif**.
 Il permet d'établir un **historique** des modifications et de **récupérer des versions anterieures** du projet en cas de problème.
 
 ### Qu'est-ce que Github?
+![](/images/github_octocat_logo.png)
 Github est une plateforme web permettant d'héberger et de gérer des projets.
 
 ### Qu'est-ce que Git?
