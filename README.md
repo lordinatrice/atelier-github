@@ -16,7 +16,10 @@ Vous aurez besoin de votre ordinateur, d'une connexion à internet et d'un compt
 
 La gestion de versions, permet simplement de pouvoir créer plusieurs versions d'un projet. Ces versions sont alors accessibles et modifiables.
 Le "versioning" permet un travail d'équipe simultané, c'est un outil primordial pour le **travail collaboratif**.
-Il permet d'établir un **historique** des modifications et de **récupérer des versions anterieures** du projet en cas de problème.
+
+Il permet 
+- d'établir un **historique** des modifications 
+- de **récupérer des versions anterieures** du projet en cas de problème.
 
 ### Qu'est-ce que Github?
 ![](/images/github_octocat_logo.png)
@@ -29,18 +32,64 @@ Github est une plateforme web permettant d'héberger et de gérer des projets.
 Un gestionnaire de version qui permet d'enregister l'évolution d'un fichier ou d'un ensemble de fichiers.
 Il permet de conserver toutes les versions d'un projet.
 
+Les versions contiendrons ces informations:
+- **Quand** le fichier à été modifié
+- **Quoi**: le détail de ce qui a été modifié
+- **Pourquoi** le fichier a été modifié
+- **Qui** a fait ce changement
+
 ## Github
 ### Créer son premier repository
 
 ## Git
 #### Installation
-
-#### Ligne de commande Git
+https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/ 
 
 #### Cloner un repository
+```
+# cloner un repository existant
+git clone git@github.com:camilleregnault/atelier-github.git
+```
+#### Ligne de commande Git
+Commandes 
+```
+# visualiser les commandes git
+git config
+```
+**Commit**
+```
+# d'abord verifier le status actuel
+git status
+
+# Ensuite, ajouter les fichier dans la "zone de transit"
+git add <file_1_which_has_been_modified>
+git add <file_2_which_has_been_modified>
+
+# verifier le status
+git status
+
+# commenter/ decrire le changement
+git commit --message "A meaningful message about this change"
+```
+**Log**
+```
+# visualiser l'historique des commits
+git log
+
+# press q to exit git log
+```
+**Push**
+```
+# Envoyer le commit sur github
+git push origin <branch_name>
+
+# envoyer sur la branche principale
+git push origin master
+```
+
 
 #### Les branches
-
+Ce sont des outils permettant le travail collaboratif.
 
 
 ## Reférences et liens utiles
@@ -66,4 +115,6 @@ Readme syntax:
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 Git github guide:https://rogerdudler.github.io/git-guide/index.fr.html
+
+Lignes de commande git: https://gist.github.com/aquelito/8596717#file-git_base-md
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
