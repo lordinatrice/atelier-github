@@ -19,6 +19,7 @@ Le "versioning" permet un travail d'équipe simultané, c'est un outil primordia
 Il permet d'établir un **historique** des modifications et de **récupérer des versions anterieures** du projet en cas de problème.
 
 ### Qu'est-ce que Github?
+![](/images/github_octocat_logo.png)
 Github est une plateforme web permettant d'héberger et de gérer des projets.
 
 ### Qu'est-ce que Git?
