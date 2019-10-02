@@ -107,20 +107,17 @@ git checkout <branch_name>
 
 # Aller sur master
 git checkout master
-
 ```
 
 ###### Pull
 ```
 # Récuperer et intégrer un branche ou un autre repo
 git pull origin master
-
 ```
 ###### Merge
 ```
 # Fusionner les branches dans master
 git merge
-
 ```
 
 ## Reférences et liens utiles
