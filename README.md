@@ -39,19 +39,25 @@ Les versions contiendrons ces informations:
 - **Qui** a fait ce changement
 
 ## Github
-### Créer son premier repository
+### Créer son premier dépot
+1. Cliquer en haut à droite dans le menu **+** et sélectionner "**New repository**"
+2. Nommer son repository
+3. Ajouter une descrpition (optionnel)
+4. Choisir de rendre le repository "Public" ou "Privé"
+5. Initialiser le repo avec un **README**
+6. Cliquer sur créer 
 
 ## Git
-#### Installation
+### Installation
 https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/ 
 
-#### Cloner un repository
+### Cloner un repository
 ```
 # cloner un repository existant
 git clone git@github.com:camilleregnault/atelier-github.git
 ```
-#### Ligne de commande Git
-Commandes 
+### Ligne de commande Git
+**Commandes** 
 ```
 # visualiser les commandes git
 git config
@@ -88,7 +94,7 @@ git push origin master
 ```
 
 
-#### Les branches
+### Les branches
 Ce sont des outils permettant le travail collaboratif.
 
 
@@ -105,8 +111,11 @@ https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-pa
 
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
+Créer un repository: https://help.github.com/en/articles/create-a-repo
+
 Installer Git:
 https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/
+https://git-scm.com/downloads
 
 Versioning: https://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-%C3%80-propos-de-la-gestion-de-version
 
