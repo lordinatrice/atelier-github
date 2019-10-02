@@ -39,10 +39,10 @@ Les versions contiendrons ces informations:
 - **Qui** a fait ce changement
 
 ## Github
-### Créer son premier dépot
+### Créer son premier [dépot](https://help.github.com/en/articles/create-a-repo)
 1. Cliquer en haut à droite dans le menu **+** et sélectionner "**New repository**"
 2. Nommer son repository
-3. Ajouter une descrpition (optionnel)
+3. Ajouter une description (optionnel)
 4. Choisir de rendre le repository "Public" ou "Privé"
 5. Initialiser le repo avec un **README**
 6. Cliquer sur créer 
@@ -57,12 +57,12 @@ https://www.linode.com/docs/development/version-control/how-to-install-git-on-li
 git clone git@github.com:camilleregnault/atelier-github.git
 ```
 ### Ligne de commande Git
-Commandes
+###### Commandes
 ```
 # visualiser les commandes git
 git config
 ```
-Commit
+###### Commit
 ```
 # d'abord verifier le status actuel
 git status
@@ -77,14 +77,14 @@ git status
 # commenter/ decrire le changement
 git commit --message "A meaningful message about this change"
 ```
-Log
+###### Log
 ```
 # visualiser l'historique des commits
 git log
 
 # press q to exit git log
 ```
-Push
+###### Push
 ```
 # Envoyer le commit sur github
 git push origin <branch_name>
@@ -92,7 +92,18 @@ git push origin <branch_name>
 # envoyer sur la branche principale
 git push origin master
 ```
+###### Pull
+```
+# Récuperer et intégrer un branche ou un autre repo
+git pull origin master
 
+```
+###### Merge
+```
+# Fusionner les branches dans master
+git merge
+
+```
 
 ### Les branches
 Ce sont des outils permettant le travail collaboratif.
@@ -110,8 +121,6 @@ Github flow: https://guides.github.com/introduction/flow/
 https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
 
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-
-Créer un repository: https://help.github.com/en/articles/create-a-repo
 
 Installer Git:
 https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/
