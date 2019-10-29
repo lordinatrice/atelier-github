@@ -144,4 +144,6 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 Git github guide:https://rogerdudler.github.io/git-guide/index.fr.html
 
 Lignes de commande git: https://gist.github.com/aquelito/8596717#file-git_base-md
+
+Learning git branching: https://learngitbranching.js.org/
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
