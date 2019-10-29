@@ -126,6 +126,8 @@ commandes principales console + git: https://github.com/women-on-rails/week-1
 
 Guide Git: https://rogerdudler.github.io/git-guide/
 
+https://github.github.com/training-kit/downloads/fr/github-git-cheat-sheet/
+
 Comprendre Git: https://blog.lesieur.name/comprendre-et-utiliser-git-avec-vos-projets/
 
 Créer un repository Github: https://guides.github.com/activities/hello-world/#intro
