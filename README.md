@@ -1,4 +1,4 @@
-# Atelier-github pour [@LesHackeuses](https://leshackeuses.fr/)  [![alt text][1.2]][1]
+# Atelier-github pour [@LesHackeuses](https://leshackeuses.fr/)  [![alt text][1.2]][1] at @42
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: https://twitter.com/leshackeuses?lang=fr
