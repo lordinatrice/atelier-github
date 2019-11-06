@@ -122,6 +122,8 @@ git merge
 ```
 
 ## Reférences et liens utiles
+vidéo de présentation officielle de Github (en anglais): https://www.youtube.com/watch?v=w3jLJU7DT5E
+
 commandes principales console + git: https://github.com/women-on-rails/week-1
 
 Guide Git: https://rogerdudler.github.io/git-guide/
