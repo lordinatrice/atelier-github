@@ -33,7 +33,7 @@ Un gestionnaire de version qui permet d'enregister l'évolution d'un fichier ou 
 Il permet de conserver toutes les versions d'un projet.
 
 Les versions contiendrons ces informations:
-- **Quand** le fichier à été modifié
+- **Quand** le fichier a été modifié
 - **Quoi**: le détail de ce qui a été modifié
 - **Pourquoi** le fichier a été modifié
 - **Qui** a fait ce changement
