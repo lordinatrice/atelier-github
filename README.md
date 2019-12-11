@@ -60,7 +60,7 @@ git clone git@github.com:camilleregnault/atelier-github.git
 ###### Commandes
 ```
 # visualiser les commandes git
-git config
+git --help
 ```
 ###### Commit
 ```
